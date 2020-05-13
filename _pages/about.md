@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 # About Me
-* I am a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/). [[Curriculum Vitae](http://lantaoyu.com/files/lantaoyu_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)]
-* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/).
+* I am a biostatistician at the [Merck Research Laboratories, Merck & Co., Inc.](http://www.merck.com/research/mrl-labs.html). 
+* I received my Bachelor’s degree in Mathematics and Finance from [Wuhan University](http://en.whu.edu.cn/), Master's degree in Financial Mathematics from [Johns Hopkins University](http://www.jhu.edu/) and PhD in Statistics from [Worcester Polytechnic Institute](http://www.wpi.edu/). My PhD advisor is Prof. [Zheyang Wu](http://users.wpi.edu/~zheyangwu/).
+* My research interests lie in 1) statistical theory of multiple comparison and p-value combination methods; 2) statistical methodology for genetic asscociation study; 3) pharmacogenetics.
+
