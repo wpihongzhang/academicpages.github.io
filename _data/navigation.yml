@@ -1,9 +1,9 @@
 # main links links
 main:
- # - title: "CV/Bio"
- #   url: /files/HongZhang_CV_05112020.pdf
+  - title: "CV/Bio"
+    url: /files/HongZhang_CV_05112020.pdf
     
- - title: "Publications"
+  - title: "Publications"
     url: /publications/
 
  # - title: "Talks"
