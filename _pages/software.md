@@ -17,7 +17,7 @@ Citation: [doi:10.1214/19-AOAS1302](https://doi.org/10.1214/19-AOAS1302).
 <b>[CKAT](https://cran.r-project.org/web/packages/CKAT)</b><br> 
 Composite Kernel Association Test (CKAT) is a flexible and robust kernel machine based approach to jointly test the genetic main effect and gene-treatment interaction effect for a set of single-nucleotide polymorphisms (SNPs) in pharmacogenetics (PGx) assessments embedded within randomized clinical trials.
 
-<br />Citation: [doi:10.1093/bioinformatics/btaa125](https://doi.org/10.1093/bioinformatics/btaa125).
+Citation: [doi:10.1093/bioinformatics/btaa125](https://doi.org/10.1093/bioinformatics/btaa125).
 
 
 
