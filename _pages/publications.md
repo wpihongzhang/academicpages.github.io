@@ -8,7 +8,7 @@ author_profile: true
 <ins>Hong Zhang</ins>, Jiashun Jin and Zheyang Wu.
 <br /><i>IEEE Transactions on Signal Processing</i>. vol. 68 (2020), pp.1021-1033, [doi:10.1109/TSP.2020.2967179](https://doi.org/10.1109/TSP.2020.2967179). [arXiv:1702.07082](https://arxiv.org/abs/1702.07082).
 
-<b>TFisher Tests: Optimal and Adaptive Thresholding for Combining <i>p</i>-Values</b><br> 
+<b>TFisher: A powerful truncation and weighting procedure for combining <i>p</i>-Values</b><br> 
 <ins>Hong Zhang</ins>, Tiejun Tong, John Landers and Zheyang Wu.
 <br /><i>Annals of Applied Statistics</i>. vol. 14, no. 1 (2020), pp.178–201, [doi:10.1214/19-AOAS1302](https://doi.org/10.1214/19-AOAS1302). [arXiv:1801.04309](https://arxiv.org/abs/1801.04309).  
 
