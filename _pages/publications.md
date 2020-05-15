@@ -19,3 +19,19 @@ author_profile: true
 [Releasing Wolbachia-infected Aedes aegypti to prevent the spread of dengue virus: a mathematical study.]<br> 
 <ins>Hong Zhang</ins>, Roger Lui.
 <br /><i>Infectious Disease Modelling</i>. vol. 5 (2020), pp.142-160, [doi:10.1016/j.idm.2019.12.004](https://doi.org/10.1016/j.idm.2019.12.004).
+
+[Multi-trait analysis of rare-variant association summary statistics using MTAR.]<br> 
+Lan Luo, Judong Shen, <ins>Hong Zhang</ins>, Aparna Chhibber, Devan Mehrotra and Zheng-zheng Tang.
+<br /><i>Nature Communications (Accepted)</i>. 
+
+[An efficient and accurate approximation to the distribution of quadratic forms of Gaussian variables.]<br> 
+<ins>Hong Zhang</ins>, Judong Shen and Zheyang Wu.
+<br /><i>Submitted</i>. [arXiv:2005.00905](https://arxiv.org/abs/2005.00905).
+
+[A Generalized Family of Fisher’s Combination Tests and Their Null Distributions Under Correlation.]<br> 
+<ins>Hong Zhang</ins>, Zheyang Wu.
+<br /><i>Submitted</i>. [arXiv:2003.01286](https://arxiv.org/abs/2003.01286).
+
+[Generalized Goodness-Of-Fit Tests for Correlated Data.]<br> 
+<ins>Hong Zhang</ins>, Zheyang Wu.
+<br /><i>Submitted</i>. [arXiv:1806.03668](https://arxiv.org/abs/1806.03668).
