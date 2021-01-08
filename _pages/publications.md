@@ -25,7 +25,7 @@ Lan Luo, Judong Shen, <ins>Hong Zhang</ins>, Aparna Chhibber, Devan Mehrotra and
 <br /><i>Infectious Disease Modelling</i>. vol. 5 (2020), pp.142-160, [doi:10.1016/j.idm.2019.12.004](https://doi.org/10.1016/j.idm.2019.12.004).
 
 <b>CauchyCP: a powerful test under non-proportional hazards using Cauchy combination of change-point Cox regressions</b><br> 
-<ins>Hong Zhang<ins>, Qing Li, Devan V. Mehrotra, Judong Shen.
+<ins>Hong Zhang</ins>, Qing Li, Devan V. Mehrotra, Judong Shen.
 <br /><i>Submitted</i>. [arXiv:2101.00059](https://arxiv.org/abs/2101.00059).
 
 <b>An efficient and accurate approximation to the distribution of quadratic forms of Gaussian variables</b><br> 
