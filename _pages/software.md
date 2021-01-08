@@ -4,7 +4,7 @@ permalink: /software/
 author_profile: true
 ---
 <br>
-<b>[SetTest](https://cran.r-project.org/web/packages/SetTest)</b><br> (http://cranlogs.r-pkg.org/badges/grand-total/SetTes?color=yellowgreen)
+<b>[SetTest](https://cran.r-project.org/web/packages/SetTest)</b><br> ![](http://cranlogs.r-pkg.org/badges/grand-total/SetTes?color=yellowgreen)
 It provides cumulative distribution function (CDF), quantile, p-value, statistical power calculator and random number generator for a collection of group-testing procedures, including the Higher Criticism tests, the one-sided Kolmogorov-Smirnov tests, the one-sided Berk-Jones tests, the one-sided phi-divergence tests, etc. The input are a group of p-values. The null hypothesis is that they are i.i.d. Uniform(0,1). In the context of signal detection, the null hypothesis means no signals. In the context of the goodness-of-fit testing, which contrasts a group of i.i.d. random variables to a given continuous distribution, the input p-values can be obtained by the CDF transformation. The null hypothesis means that these random variables follow the given distribution.
 
 Citation: [10.1109/TSP.2020.2967179](https://doi.org/10.1109/TSP.2020.2967179).
