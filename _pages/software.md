@@ -28,3 +28,8 @@ Calculates the right-tail probability of quadratic forms of Gaussian variables u
 An omnibus test of change-point Cox regression models to improve the statistical power of detecting signals of non-proportional hazards patterns.  
 
 [arXiv: 2101.00059](https://arxiv.org/abs/2101.00059).
+
+<b>[GFisher](https://cran.r-project.org/web/packages/GFisher)</b> ![](http://cranlogs.r-pkg.org/badges/grand-total/GFisher?color=yellowgreen)<br> 
+Accurate and computationally efficient p-value calculation for a general family of Fisher type aggregation statistics (GFisher).  
+
+[arXiv: 2003.01286](https://arxiv.org/abs/2003.01286).
