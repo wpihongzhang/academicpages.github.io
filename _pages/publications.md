@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>CauchyCP: a powerful test under non-proportional hazards using Cauchy combination of change-point Cox regressions</b><br> 
+<ins>Hong Zhang</ins>, Qing Li, Devan V. Mehrotra, Judong Shen.
+<br /><i>Statistical Methods in Medical Research 2021 (Accepted)</i>. [arXiv:2101.00059](https://arxiv.org/abs/2101.00059).
+
 <b>Distributions and Statistical Power of Optimal Signal Detection Methods in Finite Samples</b><br> 
 <ins>Hong Zhang</ins>, Jiashun Jin and Zheyang Wu.
 <br /><i>IEEE Transactions on Signal Processing</i>. vol. 68 (2020), pp.1021-1033, [doi:10.1109/TSP.2020.2967179](https://doi.org/10.1109/TSP.2020.2967179). [arXiv:1702.07082](https://arxiv.org/abs/1702.07082).
@@ -23,10 +27,6 @@ Lan Luo, Judong Shen, <ins>Hong Zhang</ins>, Aparna Chhibber, Devan Mehrotra and
 <b>Releasing Wolbachia-infected Aedes aegypti to prevent the spread of dengue virus: a mathematical study</b><br> 
 <ins>Hong Zhang</ins>, Roger Lui.
 <br /><i>Infectious Disease Modelling</i>. vol. 5 (2020), pp.142-160, [doi:10.1016/j.idm.2019.12.004](https://doi.org/10.1016/j.idm.2019.12.004).
-
-<b>CauchyCP: a powerful test under non-proportional hazards using Cauchy combination of change-point Cox regressions</b><br> 
-<ins>Hong Zhang</ins>, Qing Li, Devan V. Mehrotra, Judong Shen.
-<br /><i>Submitted</i>. [arXiv:2101.00059](https://arxiv.org/abs/2101.00059).
 
 <b>An efficient and accurate approximation to the distribution of quadratic forms of Gaussian variables</b><br> 
 <ins>Hong Zhang</ins>, Judong Shen and Zheyang Wu.
